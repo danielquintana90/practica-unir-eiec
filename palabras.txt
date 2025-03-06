@@ -1,0 +1,10 @@
+perro
+casa
+libro
+estrella
+sol
+manzana
+luna
+flor
+galaxia
+mar
